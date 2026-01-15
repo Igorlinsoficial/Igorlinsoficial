@@ -13,4 +13,3 @@
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorlinsoficial&show_icons=true&theme=radical)
